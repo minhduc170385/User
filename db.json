@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "username": "admin", "password":"123" },
+    { "id": 2, "username": "duc", "password":"123" },
+    { "id": 3, "username": "sau", "password":"123" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

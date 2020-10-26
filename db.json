@@ -2,7 +2,7 @@
   "users": [
     { "id": 1, "username": "admin", "password":"123", "email":"Admin@fsoft.com", "role":"admin", "active": true },
     { "id": 2, "username": "duc", "password":"123", "email":"Duc@fsoft.com","role":"user", "active": true},
-    { "id": 3, "username": "sau", "password":"123", "email":"Sau@fsoft.com","active": false }
+    { "id": 3, "username": "sau", "password":"123", "email":"Sau@fsoft.com","role":"user","active": false }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
